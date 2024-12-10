@@ -4,4 +4,4 @@ if (!variable_global_exists("money")) {
 }
 
 // Piirretään raha-arvo
-draw_text(10, 10, "Money: " + string(global.money));
+draw_text(64, 10, "Money: " + string(global.money));

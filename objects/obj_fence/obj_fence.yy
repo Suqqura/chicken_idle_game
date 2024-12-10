@@ -9,8 +9,8 @@
   "name":"obj_fence",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"kanat",
+    "path":"folders/Objects/kanat.yy",
   },
   "parentObjectId":null,
   "persistent":false,
