@@ -30,8 +30,7 @@
   "height":64,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"e1b658d1-dce9-41c6-9d7a-e7e072cc5864","blendMode":0,"displayName":"default (2)","isLocked":false,"name":"e1b658d1-dce9-41c6-9d7a-e7e072cc5864","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
-    {"$GMImageLayer":"","%Name":"60953ab1-6477-4b4a-b10b-e7b7c1a366ef","blendMode":0,"displayName":"default","isLocked":false,"name":"60953ab1-6477-4b4a-b10b-e7b7c1a366ef","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ba373c17-00a2-4871-87fd-731c35b40140","blendMode":0,"displayName":"default","isLocked":false,"name":"ba373c17-00a2-4871-87fd-731c35b40140","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_kana",
   "nineSlice":null,

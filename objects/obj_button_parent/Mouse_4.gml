@@ -1,0 +1,1 @@
+target_scale = 0.95;

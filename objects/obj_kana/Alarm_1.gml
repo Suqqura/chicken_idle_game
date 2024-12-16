@@ -1,5 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
-global.money += 1
+global.money += 0.01
 
-alarm[1] = room_speed * 1; // Munii ensimmäisen munan 1 sekunnin kuluttua
+alarm[1] = room_speed * 1; 

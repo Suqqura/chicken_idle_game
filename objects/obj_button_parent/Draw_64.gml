@@ -1,5 +1,7 @@
-// draw the button
-draw_self();
+// Draw the button sprite (nine-sliced)
+if (sprite_index != -1) {
+    draw_sprite_stretched(sprite_index, 0, x - size_x / 2, y - size_y / 2, size_x, size_y);
+}
 
 // options
 // draw_set_font(fnt_button);

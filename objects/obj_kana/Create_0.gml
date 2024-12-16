@@ -3,7 +3,6 @@ state = chicken_state.idle; // Aloitustila
 state_timer = irandom_range(90, 150); // Satunnainen aika ennen seuraavaa muutosta
 speed = 0; // Nopeus on aluksi 0
 
-
 // Käytettävä sprite (sisältää kaikki animaatiot)
 sprite_index = spr_kana; // Yksi sprite kaikille tiloille
 

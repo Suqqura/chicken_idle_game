@@ -1,4 +1,8 @@
 /// Initialize button state and default colors
+// Default dimensions (can be overridden by children)
+size_x = 80; // Width of the button
+size_y = 32;  // Height of the button
+target_scale = 1;
 
 // Button states
 hovering = false;
