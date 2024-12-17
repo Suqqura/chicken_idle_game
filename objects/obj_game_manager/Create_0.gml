@@ -1,5 +1,8 @@
+// this randomizes the games seed
+randomize()
+
 // money
-global.money = 0.00;
+global.money = 100;
 
 // chicken count
 global.total_chickens = 0; // Current number of chickens

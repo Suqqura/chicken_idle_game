@@ -55,7 +55,6 @@
     {"name":"inst_949A318","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_29B3749D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_1FA44C67","path":"rooms/Room1/Room1.yy",},
-    {"name":"inst_777797AD","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_291CD55E","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_566ECE85","path":"rooms/Room1/Room1.yy",},
   ],
@@ -72,7 +71,6 @@
         {"$GMRInstance":"v1","%Name":"inst_31509A2C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_31509A2C","objectId":{"name":"obj_egg","path":"objects/obj_egg/obj_egg.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":224.0,"y":160.0,},
       ],"layers":[],"name":"EggLayer","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"ChickenLayer","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_777797AD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_777797AD","objectId":{"name":"obj_kana","path":"objects/obj_kana/obj_kana.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":320.0,"y":288.0,},
         {"$GMRInstance":"v1","%Name":"inst_291CD55E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_291CD55E","objectId":{"name":"obj_kana_pink","path":"objects/obj_kana_pink/obj_kana_pink.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":896.0,"y":416.0,},
       ],"layers":[],"name":"ChickenLayer","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"FenceLayer","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[

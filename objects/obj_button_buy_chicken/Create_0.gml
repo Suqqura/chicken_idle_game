@@ -18,12 +18,17 @@ activate_button = function() {
 
     if (global.money >= 50) {
         global.money -= 50; // Deduct cost
-        var new_chicken = instance_create_layer(room_width / 2, room_height / 2, "ChickenLayer", obj_kana);
+
+        // Generate random position near the center of the room
+        var xx = irandom_range(room_width / 2 - 200, room_width / 2 + 200);
+        var yy = irandom_range(room_height / 2 - 200, room_height / 2 + 200);
         
-        // Ensure the instance is valid before setting variables
+        // Create the chicken instance
+        var new_chicken = instance_create_layer(xx, yy, "ChickenLayer", obj_kana);
+
+        // Use the Chicken constructor
         if (instance_exists(new_chicken)) {
-            new_chicken.direction = irandom(360); // Set random direction
-            new_chicken.speed = 0; // Start idle
+            new_chicken.chicken = new Chicken();
             global.total_chickens++; // Increment the chicken counter
             show_debug_message("Chicken purchased! Total chickens: " + string(global.total_chickens));
         }
